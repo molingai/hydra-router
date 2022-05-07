@@ -20,7 +20,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "bluebird": "3.5.1",
     "hydra": "1.9.2",
     "hydra-plugin-hls": "0.2.6",
     "hydra-plugin-loggly": "0.1.13",
